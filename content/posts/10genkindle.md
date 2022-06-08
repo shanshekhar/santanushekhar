@@ -10,7 +10,7 @@ cover:
 
 I was always on the sideline about getting a Kindle. The price of INR ~8000/- seemed steep when considering the fact that it is exclusively an ebook reading device.
 
-![Price Comparison Kindle vs Hardcover](/static/figuring-maria-popova.jpg)
+![Price Comparison Kindle vs Hardcover](/figuring-maria-popova.jpg 'screen capture')
 
 In my anecdotal experience, the prices of the Kindle Editions typically seemed to hover around a third of the price of the printed versions for most books. I was planning to do my own version of the 50-book-a-year challenge but the cost and hassle of ordering a ton of paperbacks on amazon seemed daunting.
 
