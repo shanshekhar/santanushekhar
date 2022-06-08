@@ -1,4 +1,4 @@
-baseURL: https://santanushekhar.com/
+baseURL: "https://santanushekhar.com/"
 languageCode: en-us
 title: santanu shekhar
 theme : PaperMod
