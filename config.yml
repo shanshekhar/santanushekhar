@@ -1,0 +1,19 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: santanu shekhar
+theme : PaperMod
+
+menu : 
+  main :
+    - identifier : catogories
+      name : Categories
+      url : /categories/
+      weight : 10
+    - identifier : tags
+      name : Tags
+      url : /tags/
+      weight : 20
+    - identifier : archives
+      name : Archives
+      url : /archives/
+      weight : 30
